@@ -253,6 +253,10 @@ public void user_navigate_to_customer_page() throws InterruptedException {
 	
 	logger.info("********user_navigate_to_customer_page********");
 	RandomString();
+	RandomString();
+	}RandomString();
+}RandomString();
+}
 }
 
 
