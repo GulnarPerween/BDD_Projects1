@@ -256,6 +256,8 @@ public void user_navigate_to_customer_page() throws InterruptedException {
 	RandomString();
 	}RandomString();
 }RandomString();
+RandomString();
+RandomString();
 }
 }
 
