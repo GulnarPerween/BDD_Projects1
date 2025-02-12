@@ -38,7 +38,8 @@ public class BASE_CLASS {
 		
 		return (generatedString2);
 		
-		System.out.println("Enter the Random Email Address are ="+generatedString3);
-		System.out.println("Enter the Random Email Address are ="+generatedString4);
+		System.out.println("HELLO"):
+		System.out.println("HELLO");
+		
 	}
 }
